@@ -2,6 +2,9 @@
 Very simple Streamlit UI for labeling &amp; annotation of images with [Segment Anything 2](https://github.com/facebookresearch/sam2) model.
 
 
+https://github.com/user-attachments/assets/a8cb07f9-7c56-4359-a05a-0f551f21f688
+
+
 # Install
 
  1. Install segment-anything python package from Github: [Segment Anything 2](https://github.com/facebookresearch/sam2). Usually it is enough to run: ```pip install git+https://github.com/facebookresearch/sam2.git```.
