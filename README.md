@@ -31,10 +31,10 @@ https://github.com/user-attachments/assets/a8cb07f9-7c56-4359-a05a-0f551f21f688
 1. To switch between images, you can use the "Previous photo" \ "Next photo" buttons or select the desired image from the list.
 
 2. You can select the object of interest in two ways: with single dots or a rectangular area (bounding box).
-
-- To select an object with dots, select "Point selection". Then click on the desired object in the photo. To improve the result, you can put several dots on the object, although most often one dot is enough.
-
-- To select an object with a rectangular area, select "Box selection". The first click in this case will select the upper left corner of the rectangle, the second - the lower right.
+ 
+ - To select an object with dots, select "Point selection". Then click on the desired object in the photo. To improve the result, you can put several dots on the object, although most often one dot is enough.
+ 
+ - To select an object with a rectangular area, select "Box selection". The first click in this case will select the upper left corner of the rectangle, the second - the lower right.
 
 3. In test mode, automatic segmentation of all objects in the image is available
 
